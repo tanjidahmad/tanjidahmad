@@ -22,7 +22,8 @@
    <a href="mailto:tanjidahmad.cse.uiu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 <hr/>
-<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
+![_](https://github.com/user-attachments/assets/e76a4352-e76d-4272-a5c6-7a2882acb3e6)
+
 
 ### 🧑‍💻 Talking about Personal Stuff:
 
