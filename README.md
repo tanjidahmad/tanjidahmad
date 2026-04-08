@@ -18,11 +18,11 @@
 </div>
 <br/>
 <div align="center">
-  <a href="https://www.linkedin.com/in/tanjid ahmad/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/tanjidahmad/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
    <a href="mailto:tanjidahmad.cse.uiu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 <hr/>
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/image.png" width="500"/>
+
 
 
 
