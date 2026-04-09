@@ -61,7 +61,7 @@ const tanjid = {
   techCommunities: {
     coorganizer: "United International University",
     speaker: "English",
-    mentor: "Web Developer"
+    
   },
   challenge: "I am doing the #100DaysOfCode challenge focused on React"
 }
